@@ -5,7 +5,7 @@ Country Search using angular, typescript
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
 ## Development server
-Run npm install -g @angular/cli@latest in Integrate terminal.
+Run `npm install -g @angular/cli@latest` in Integrate terminal.
 Run `ng build`.
 Run `ng serve` for a dev server. 
 
